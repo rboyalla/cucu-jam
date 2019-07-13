@@ -6,5 +6,5 @@ Feature: Shopping
       | milk  | 9     |
       | bread | 7     |
       | soap  | 5     |
-    When I pay 25
-    Then my change should be 4
+    When I pay 26
+    Then my change should be 5
